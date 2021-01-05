@@ -19,3 +19,5 @@ Define que determinadas classes devem estarem abertas para extensões, mas fecha
 Benefícios:
 * Facilidade de implementação de um novo comportamento.
 * Diminuição de erros
+
+#### To be continued...
