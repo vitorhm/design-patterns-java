@@ -7,8 +7,9 @@ import java.util.stream.Stream;
 
 /**
  *
- * Define uma classe de filtro para carros que implementa o {@link Filtro}
+ * Define uma classe de filtro para carros que implementa o {@link Filtro}.
  *
+ * Sempre que houver uma nova condição no filtro, basta criarmos uma nova implementação da especificação.
  */
 class FiltroCarroCorreto implements Filtro<Car> {
 
