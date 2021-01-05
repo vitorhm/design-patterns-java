@@ -1,4 +1,4 @@
-package br.com.vitorhm.designpatterns.solid;
+package br.com.vitorhm.designpatterns.solid.srp;
 
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
