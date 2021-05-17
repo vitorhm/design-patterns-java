@@ -1,4 +1,4 @@
-package com.activemesa.solid.dip;
+package br.com.vitorhm.designpatterns.solid.dip;
 
 import org.javatuples.Triplet;
 
